@@ -8,7 +8,7 @@
   "types": "typings/webpack-extension-reloader.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubenspgcavalcante/webpack-extension-reloader.git"
+    "url": "git://github.com/zwindl/webpack-extension-reloader.git"
   },
   "husky": {
     "hooks": {
@@ -35,9 +35,9 @@
   "author": "Rubens Pinheiro Gonçalves Cavalcante",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rubenspgcavalcante/webpack-extension-reloader/issues"
+    "url": "https://github.com/zwindl/webpack-extension-reloader/issues"
   },
-  "homepage": "https://github.com/rubenspgcavalcante/webpack-extension-reloader#readme",
+  "homepage": "https://github.com/zwindl/webpack-extension-reloader#readme",
   "keywords": [
     "webpack",
     "plugin",
